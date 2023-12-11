@@ -2,7 +2,6 @@
 <html>
     <head>
         <body>
-            <title>PepiMazon</title>
             <style>
                 h1 {
                     color: maroon;
@@ -19,7 +18,7 @@
             <p>Četiri bojice:plava, narančasta, roza, ljubičasta  = 2 kune, svaka 50 lipa</p>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpeLuj8WI80co1IbZYevwm4qlv3II6YH6AlXK7HjvJ1CDoc7uRr98bTuUOSBlNateVxI&usqp=CAU">
             <p>Kistovi:meki, tvrdi = 2 kune, svaki 1 kunu</p>
-            <img src="https://www.astrejaplus.hr/wp-content/uploads/2023/07/400_e040145_main_or_1.jpg.jpg">
+            <img src="[https://www.astrejaplus.hr/wp-content/uploads/2023/07/400_e040145_main_or_1.jpg.jpg](https://i.ibb.co/jDssY6k/Kistovi.jpg)">
             <p>Pastele:zelena, tamno zelena, crvena, roza, narančasta = 3.50 kuna, svaka 50 lipa</p>
             <img src="https://i.ibb.co/JkSHrM5/pastele.jpg">
             <p>Ako želite platiti, pošaljite e-mail na ovu adresu da se dogovorimo gdje ćemo se naći</p>
