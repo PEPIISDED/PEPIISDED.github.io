@@ -2,9 +2,6 @@
     <head>
         <body>
             <style>
-                h1 {
-                    color: maroon;
-                }
             </style>
             <h1>Dobrodošao na PepiMazon</h1>
             <hr>
