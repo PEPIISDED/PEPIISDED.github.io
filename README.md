@@ -1,8 +1,6 @@
 <html>
     <head>
         <body>
-            <style>
-            </style>
             <h1>Dobrodošao na PepiMazon</h1>
             <hr>
             <p>Na ovoj stranici se mogu kupovati PepiMazon stvari!!!</p>
